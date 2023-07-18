@@ -1,5 +1,5 @@
 function toggleDropdown() {
-  var dropdown = document.getElementById("myDropdown");
+  var dropdown = document.getElementById("dropdown-item");
   if (dropdown.style.display === "block") {
     dropdown.style.display = "none";
   } else {
